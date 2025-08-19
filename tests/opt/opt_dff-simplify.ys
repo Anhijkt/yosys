@@ -1,4 +1,4 @@
-# 5287 issue
+# 5279 issue
 # Check only for complimentary patterns elimination
 
 read_rtlil opt_dff-simplify.il 
